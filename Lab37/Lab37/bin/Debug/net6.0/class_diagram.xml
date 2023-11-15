@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram>
+  <Class Name="EmbeddedAttribute">
+    <Property Name="TypeId" Type="Object" />
+  </Class>
+  <Class Name="NullableAttribute">
+    <Property Name="TypeId" Type="Object" />
+  </Class>
+  <Class Name="NullableContextAttribute">
+    <Property Name="TypeId" Type="Object" />
+  </Class>
+  <Class Name="Program" />
+</ClassDiagram>
